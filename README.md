@@ -3,7 +3,7 @@ Teensy-AudioPlayerTest
 
 Quick, dirty, and buggy :-)
 Attention - tested only with tweaked Teensyduino (GCC 4.8.3).
-Should be work with original too, but NOT TESTED
+Should compile with original too, but NOT TESTED.
 
 Needs Teensy 3.1 + Audioboard, Teensyduino 1.20
 
