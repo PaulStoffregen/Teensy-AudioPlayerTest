@@ -1,4 +1,4 @@
-Teensy-AudioPlayerTest
+Teensy-AudioPlayerTest (Mp3)
 ======================
 
 Quick, dirty, and buggy :-)
